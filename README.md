@@ -1,4 +1,4 @@
-# memoryblast
+# memory blast
 
 A new Flutter application.
 
