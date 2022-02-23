@@ -1,6 +1,6 @@
 # memory blast
 
-A new Flutter application.
+A new Flutter game application.
 
 ## Getting Started
 
